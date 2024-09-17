@@ -4,4 +4,4 @@
 - 😄 Pronouns: Siv-Biyen
 - ⚡ Fun fact: I am friendly
 - 📂 This is my porfolio, but for now the project pages is in progress
-      visit here https://sizi-portfolio.vercel.app/
+      visit here https://czvein.live/
